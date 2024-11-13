@@ -10,6 +10,22 @@ This dataset was created for the purposes of our research and specifically to se
 
 
 
-## License: CC BY-NC 4.0
+## Citation
 
-https://creativecommons.org/licenses/by-nc/4.0/
+Please  cite the following papers if you use this dataset:
+
+Sarantos, P., Violos, J., Leivadeas, A., 2025. Enabling semi-supervised learning in intrusion detection systems. Journal of Parallel and Distributed Computing 196, 105010. https://doi.org/10.1016/j.jpdc.2024.105010 
+
+@article{sarantos_enabling_2025,
+title = {Enabling semi-supervised learning in intrusion detection systems},
+volume = {196},
+issn = {0743-7315},
+url = {https://www.sciencedirect.com/science/article/pii/S0743731524001746},
+doi = {10.1016/j.jpdc.2024.105010},
+urldate = {2024-11-13},
+journal = {Journal of Parallel and Distributed Computing},
+author = {Sarantos, Panagis and Violos, John and Leivadeas, Aris},
+month = feb,
+year = {2025},
+pages = {105010},
+}
