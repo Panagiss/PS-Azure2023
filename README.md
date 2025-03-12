@@ -1,6 +1,6 @@
 # PS-Azure2023
 
-This dataset was created for the purposes of our research and specifically to serve the experimental requirements. The name came from the initial letters of the creator's and first author's name and because we monitored the Azure servers of Microsoft to acquire it.
+This dataset was created for the purposes of our research and specifically to serve the experimental requirements. The name came from the initial letters of the creator's and first author's name. Also we used a Azure VM to extract the data.
 
 ## Enabling semi-supervised learning in intrusion detection systems
 
